@@ -33,7 +33,9 @@ function calculate() {
     }
 
     if (!isValidInput(operator)) {
-        console.log('ikinci sayi eksik');
+        console.log('operator sayi eksik');
+        $('#calculationResult').html('');
+
         return;
     }
 

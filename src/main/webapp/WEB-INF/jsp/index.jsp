@@ -56,7 +56,8 @@
                             <label for="operator" class="col-sm-3 control-label">Operasyon</label>
                             <div class="col-sm-9">
                                 <select id="operator"  class="form-control">
-                                    <option value="ADD" selected>+</option>
+                                    <option value="" selected>Bir operasyon seçiniz</option>
+                                    <option value="ADD">+</option>
                                     <option value="SUBSTRACT">-</option>
                                     <option value="MULTIPLY">*</option>
                                     <option value="DIVIDE">/</option>
