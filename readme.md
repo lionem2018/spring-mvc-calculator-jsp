@@ -1,1 +1,1 @@
-# Spring MVC Calculator JSP Example
+# Spring MVC Calculator JSP Example with jQuery, Bootstrap 3, Ajax
